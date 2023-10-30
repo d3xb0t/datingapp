@@ -1,0 +1,22 @@
+.swipeButtons {
+    position: fixed;
+    bottom: 10vh;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.swipeButtons .MuiIconButton-root {
+    background-color: rgb(236, 60, 36);
+}
+
+.leftSwipe {
+    color: #1b1918 !important;
+    margin-right: 25px !important;
+}
+
+.rightSwipe {
+    color: #292ce4 !important;
+    margin-left: 25px !important;
+}
+
+
